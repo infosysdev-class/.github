@@ -4,7 +4,7 @@
 
 以下の場所からjarファイルをダウンロードしてください。
 
-- <https://github.com/infosysdev-class/webshop-sample/releases/download/2024/webapp-server-2024.jar>
+- [webapp-server-2024.jar](https://github.com/infosysdev-class/webshop-sample/releases/download/2024/webapp-server-2024.jar)
 
 ダウンロードしたファイルは、必ず `C:\SDEV` などに移動してください。
 
